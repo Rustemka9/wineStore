@@ -1,0 +1,228 @@
+.App {
+  min-width: 900px;
+  min-height: 500px;
+}
+
+.logo {
+  display: inline;
+  position: absolute;
+  margin-left: -100px;
+  margin-top: -10px;
+}
+
+.App-header {
+  background-color: white;
+  min-height: 50px;
+  text-align: center;
+  padding-top: 10px;
+}
+
+.App-header li {
+  list-style: none;
+}
+
+.App-header a {
+  padding: 0 10px;
+  color: black;
+  text-decoration: none;
+}
+
+.App-header a:hover {
+  text-decoration: underline;
+}
+.slideshow-container {
+  height: 390px;
+}
+
+.textCenterHeader {
+  font-family: "BRUSH SCRIPT MT";
+  margin-top: -400px;
+  color: rgb(155, 107, 19);
+  font-size: 175%;
+}
+
+.textCenterHeader h2 {
+  color: white;
+}
+
+.buttonShop {
+  background-color: rgb(55, 131, 55);
+  border-radius: 10px;
+  position: relative;
+  left: 45%;
+}
+
+.buttonShop p {
+  color: white;
+  margin: 10px 15px;
+}
+
+.textCenter {
+  color: white;
+  margin-top: -200px;
+  text-align: center;
+}
+
+.imgTwo {
+  width: 32.2%;
+  display: inline-block;
+  min-width: 300px;
+}
+
+.imgThree {
+  width: 32.2%;
+  display: inline-block;
+  min-width: 300px;
+}
+
+.imgFour {
+  width: 3.2%;
+  display: inline-block;
+  min-width: 300px;
+}
+
+.textBlockLeft {
+  position: absolute;
+  margin-top: -240px;
+  margin-left: 32px;
+  color: white;
+}
+
+.textBlockLeftButton, .textBlockRightButton {
+  background-color: rgb(55, 131, 55);
+  border-radius: 7px;
+  left: 25%;
+  margin-top: 10px;
+}
+
+.textBlockLeftButton p, .textBlockRightButton p {
+  color: white;
+  margin: 5px 7px;
+}
+
+.textBlockLeftFirstStr {
+  font-family: "Comic Sans MS";
+  font-size: 250%; 
+}
+
+.textBlockLeftThirdStr {
+  font-family: "Comic sans ms";
+}
+
+.textBlockLeft p {
+  font-size: 150%;
+  font-weight:bold;
+}
+
+.textBlockCenter {
+  position: absolute;
+  margin-top: -240px;
+  margin-left: 70px;
+  color: white;
+  text-align: center;
+}
+
+.textBlockCenterFirstStr {
+  font-family: "BRUSH SCRIPT MT";
+  font-size: 250%;
+}
+
+.textBlockCenter p {
+  font-size: 150%;
+  font-weight:bold;
+}
+
+.textBlockRight {
+  position: absolute;
+  margin-top: -240px;
+  margin-left: 50px;
+  color: white;
+  text-align: center;
+  min-width: fit-content;
+}
+
+.textBlockRightFirstStr {
+  font-family: "comic sans ms";
+  font-size: 200%;
+}
+
+.textBlockRight p {
+  font-size: 120%;
+}
+
+.textBlockRightThirdStr {
+  font-size: 300%;
+}
+
+h3 {
+  text-align: center;
+  font-family: "BRUSH SCRIPT MT";
+  font-size: 200%;
+}
+
+.firstFooterColumn {
+  display: block;
+  text-align: center;
+  width: 31%;
+  padding-left: 1%;
+  padding-right: 1%;
+  float: left;
+}
+
+.secondFooterColumn {
+  display: inline-block;
+  text-align: center;
+  width: 31%;
+  padding-left: 1%;
+  padding-right: 1%;
+}
+
+.thirdFooterColumn {
+  display: block;
+  text-align: center;
+  width: 31%;
+  padding-left: 1%;
+  padding-right: 1%;
+  float: right;
+}
+
+.phone, .mailbox {
+  color: black;
+  text-decoration: none;
+}
+
+.footer {
+  border-top: 1.5px solid grey;
+}
+
+.footer .firstFooterColumn a p {
+  font-size: 150%;
+  display: inline-block;
+}
+
+.footer .secondFooterColumn a {
+  color: black;
+  text-decoration: none;
+}
+
+.footer .secondFooterColumn a:hover {
+  text-decoration: underline;
+}
+
+.footerThirdColumnInput {
+  width: 250px;
+  padding: 5px 10px;
+  margin-bottom: 10px;
+}
+
+.footerThirdColumnButton {
+  margin-left: 150px;
+  background-color: white;
+  border: 1px solid gray;
+  padding: 5px 10px;
+}
+
+h6 {
+  font-size: 150%;
+  font-family: 'Comic sans ms';
+}
